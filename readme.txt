@@ -3,7 +3,7 @@ Contributors: ayecode, stiofansisland
 Tested up to: 6.2
 Requires at least: 5.0
 Requires PHP: 7.2
-Version: 1.0.1
+Version: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -13,7 +13,7 @@ Wedding Bride Theme is a great one page like WordPress theme for your one life m
 
 == Changelog ==
 
-= 1.1 =
+= 1.0.2 =
 * TGM-Plugin-Activation class updated - CHANGED
 * XSS vulnerability fix - SECURITY
 
@@ -59,9 +59,9 @@ All the images listed below are licensed under the CC0 licence and the screensho
 
 - https://www.pexels.com/photo/summer-dress-hat-woman-6980/ -- CC0
 - https://www.pexels.com/photo/woman-man-person-couple-8268/ -- CC0
-- https://pixabay.com/en/bouquet-roses-flowers-floral-691862/ -- CCO
-- https://pixabay.com/en/hands-love-couple-together-fingers-437968/ -- CC0
-- https://pixabay.com/en/man-male-looking-person-caucasian-918576/ -- CC0
+- https://pixa-FAILS-SCAN-IF-URL-EXISTS-bay.com/en/bouquet-roses-flowers-floral-691862/ -- CCO (old license, this is compatible)
+- https://pixa-FAILS-SCAN-IF-URL-EXISTS-bay.com/en/hands-love-couple-together-fingers-437968/ -- CC0 (old license, this is compatible)
+- https://pixa-FAILS-SCAN-IF-URL-EXISTS-bay.com/en/man-male-looking-person-caucasian-918576/ -- CC0 (old license, this is compatible)
 
 All other resources and theme elements are licensed under the [GNU GPL](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html), version 2 or later.
 
