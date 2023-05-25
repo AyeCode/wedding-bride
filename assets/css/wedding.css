@@ -1,0 +1,126 @@
+/**********************
+Navigation
+***********************/
+#wedding-header {
+    background: #e7536f;
+}
+.wedding-main-navigation{
+    float:none !important;
+    text-align: center;
+    font-family: "Lora Bold",sans-serif;
+}
+.wedding-main-navigation ul{
+    float:none !important;
+}
+.wedding-main-navigation ul li{
+    display: inline-block;
+    float:none !important;
+}
+.wedding-main-navigation ul li.current-menu-item > a{
+    color:#000000;
+}
+.wedding-main-navigation ul li:after{
+    font-family:'FontAwesome',sans-serif;
+    content:'\f111';
+    color:#fff;
+    font-size:5px;
+    padding:0 15px;
+    vertical-align: middle;
+}
+.wedding-main-navigation ul li:last-child:after{
+    content:'';
+}
+.wedding-main-navigation ul li a{
+    font-size:14px;
+    letter-spacing: 1px;
+    color:#fff;
+}
+.wedding-main-navigation ul li a:hover{
+   color:#000;
+}
+.header-divider-container{
+    display:inline-block;
+    width:20%;
+}
+.header-divider-container > .wedding-title-divider{
+     border-bottom:1px solid #ffffff;
+     -ms-transform: rotate(-8deg); /* IE 9 */
+     -webkit-transform: rotate(-8deg); /* Chrome, Safari, Opera */
+     transform: rotate(-8deg);
+ }
+.header-divider-container > .wedding-title-divider > .wedding-divider-square{
+    background:#fff;
+    border:1px solid #fff;
+}
+.wedding-title-divider{
+    position:relative;
+    border-bottom:1px solid #e7536f;
+    display:block;
+    margin:10px 0;
+}
+.wedding-divider-square{
+    background:#ffffff;
+    position:absolute;
+    height:10px;
+    width:10px;
+    border:1px solid #e7536f;
+    top:-5px;
+    -ms-transform: rotate(43deg); /* IE 9 */
+    -webkit-transform: rotate(43deg); /* Chrome, Safari, Opera */
+    transform: rotate(43deg);
+    left: calc(50% - 9px);
+}
+
+.wedding-person{
+    text-align: center;
+    line-height:26px;
+}
+.wedding-person.light{
+        color:#fafafa;
+    }
+.wedding-person h4{
+    margin:20px 0 10px 0;
+}
+    .wedding-person.light h4{
+        color:#e7536f;
+    }
+.wedding-person h5{
+    margin:0 0 15px 0;
+    color:#e7536f;
+    font-size:16px;
+}
+    .wedding-person.light h5{
+        color:#fafafa;
+    }
+.wedding-person p{
+    padding:5px 20px;
+    margin-bottom:40px;
+}
+.wedding-person-social a{
+    display:inline-block;
+    margin:0 10px 0 0;
+    color:#d2d2d1;
+    font-size:14px;
+    border:1px solid #d2d2d1;
+    height:26px;
+    width:26px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+}
+.wedding-person-social a:hover{
+    color:#e7536f;
+    border:1px solid #e7536f;
+}
+/**
+* Copyright
+*/
+#wedding-copyright {
+    background: #252525;
+    color: #818181;
+    font-family: "Lora Regular", serif;
+    font-size: 13px;
+}
+#wedding-copyright a:hover{
+    color:#ffffff;
+}
