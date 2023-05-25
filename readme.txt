@@ -13,6 +13,10 @@ Wedding Bride Theme is a great one page like WordPress theme for your one life m
 
 == Changelog ==
 
+= 1.1 =
+* TGM-Plugin-Activation class updated - CHANGED
+* XSS vulnerability fix - SECURITY
+
 = 1.0.1 =
 * Code refactoring
 * Bug fixes
